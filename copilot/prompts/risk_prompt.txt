@@ -1,0 +1,20 @@
+You are a supply chain risk analyst.
+
+Given the following supplier data and risk level, explain:
+1. Why the supplier is considered high or medium risk
+2. What factors are driving the risk
+3. Recommended mitigation actions
+
+Keep it concise and actionable.
+
+Supplier:
+{name}
+
+Risk Level:
+{risk}
+
+Metrics:
+- On-time delivery: {delivery}
+- Defect rate: {defect}
+- Lead time: {lead_time}
+- Financial risk: {financial}
