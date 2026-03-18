@@ -1,0 +1,6 @@
+supplier_id,supplier_name,on_time_delivery_rate,defect_rate,lead_time_days,financial_risk_score
+1,Alpha Metals,0.92,0.03,5,0.2
+2,Beta Plastics,0.75,0.08,12,0.6
+3,Gamma Electronics,0.60,0.12,18,0.8
+4,Delta Components,0.85,0.05,9,0.4
+5,Epsilon Parts,0.95,0.02,4,0.1
