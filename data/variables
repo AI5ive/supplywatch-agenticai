@@ -1,0 +1,35 @@
+supplier_id, supplier_name, on_time_delivery, defect_rate, lead_time_days, lead_time_variance, financial_risk_score, geo_risk_score, news_sentiment, last_updated
+
+(revised) supplier_id 
+supplier_name 
+*NEW* supplier_region (i.e., North America, Europe, Asia Pacific, etc.)
+*NEW* report_date (YYYY-MM-DD)
+on_time_delivery (0.0-1.0) 
+defect_rate (0.0-1.0) 
+lead_time_days (# of Days) 
+lead_time_variance, 
+financial_risk_score (1-10) 
+geo_risk_score (1-10) 
+news_sentiment (-1.0-1.0) 
+last_updated
+
+Proposed alert payload schema example (JSON format):
+ 
+{
+  "supplier_id": "S-01",
+  "supplier_name": "Acme Logistics",
+  "supplier_region": "Asia Pacific",
+  "risk_score": 8.5,
+  "trend_type": "Lead-Time Drift",
+  "evidence": "Average lead time increased from 4.2 to 6.8 days over 3 months.",
+  "recommendation": "Evaluate secondary supplier in North America."
+}
+ 
+Proposed trend patterns for the data
+ 
+-Supplier A (The Control): Stable performance, low risk.
+ 
+-Supplier B (The Target): Showing "Lead-Time Drift" where lead_time_actual increases by 0.5 days every month for the last 4 months.
+ 
+-Supplier C (The External Risk): Low operational issues but a high geo_risk_score and low news_sentiment.
+
