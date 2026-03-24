@@ -1,0 +1,53 @@
+{ 
+
+  "supplier_id": "S001", 
+
+  "supplier_name": "Acme Components", 
+
+  "supplier_region": "North America", 
+
+  "report_date": "2025-08-01", 
+
+  
+
+  "lead_time_days": 25, 
+
+  "lead_time_trend": "Increasing 3 months", 
+
+  
+
+  "on_time_delivery": 0.79, 
+
+  "otd_trend": "Decreasing", 
+
+  
+
+  "defect_rate": 0.06, 
+
+  "defect_trend": "Increasing", 
+
+  
+
+  "lead_time_variance": 4.8, 
+
+  
+
+  "risk_score": "High Alert", 
+
+  "alert_level": "High Alert", 
+
+  
+
+  "explanation_summary": "Lead time rising, OTD falling, defect rate above threshold.", 
+
+  "recommended_actions": [ 
+
+    "Contact supplier for root cause", 
+
+    "Request updated production schedule", 
+
+    "Evaluate backup suppliers" 
+
+  ] 
+
+} 
