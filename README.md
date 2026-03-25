@@ -99,10 +99,8 @@ Dataverse acts as the **state machine**, and Power Automate orchestrates the ent
 
 ### **Chichi Iwuorie — Team Lead / TPM / Architect**
 - Multi‑agent architecture  
-- Dataverse schema + state machine  
 - Action & Governance Agents  
 - Orchestration flows  
-- Demo narrative
 
 ### **CJ Johnson — Agent Engineering**
 - Intake & Analysis Agents  
@@ -121,7 +119,7 @@ Dataverse acts as the **state machine**, and Power Automate orchestrates the ent
 
 ### **Ryan Rydalch — Technical Advisor**
 - Architecture review  
-- Data modeling support  
+- Data modeling and Dataverse schema    
 - Testing & validation  
 
 ---
