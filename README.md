@@ -45,7 +45,7 @@ _Link to presentation deck goes here_
 
 ## 📊 **Architecture Diagram**
 
-<img width="1530" height="658" alt="SupplyWatch High Level Architecture" src="https://github.com/user-attachments/assets/e8c2b1f9-6c4e-4e85-a9e3-31debc78442a" />
+<img width="1376" height="768" alt="SupplyWatch High Level Architecture2" src="https://github.com/user-attachments/assets/054af3c8-8147-496a-87c0-189f12b1d371" />
 
 ---
 
