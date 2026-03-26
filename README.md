@@ -2,15 +2,21 @@
 Query‑to‑Insight Analytics Engineer  
 (Project focus: Supply Chain Risk Management)
 
-# **SupplyWatch: AI‑Driven Supplier Risk & Anomaly Detection**
-A multi‑agent AI system that detects supplier risk early, analyzes contributing factors, and recommends mitigation actions through an automated, end‑to‑end workflow.
+# **SupplyWatch: A Multi‑Agent, Orchestrated AI System for Supplier Risk Detection**
+Agentic AI for proactive supplier management: detect early risks, understand the drivers, act with confidence, and ensure governance through orchestrated Copilot Studio agents.
 
 <img width="300" height="300" alt="SupplyWatch Logo_white background" src="https://github.com/user-attachments/assets/e77a519c-0087-4522-a7b9-9297ec0583fa" />
 
 ---
 
 ## **Short Description**
-SupplyWatch helps supply chain teams identify supplier issues before they escalate. Using a chain of Copilot Studio agents orchestrated through Power Automate and Dataverse, the system evaluates risk, recommends actions, and delivers alerts directly to stakeholders.
+SupplyWatch is an Agentic AI system built on Microsoft Power Platform that transforms how supply chain teams detect and respond to supplier risk.
+
+Four specialized Copilot Studio agents work autonomously in sequence, each with a defined role: the Intake Agent normalizes submissions, the Analysis Agent scores risk and explains drivers, the Action Agent dispatches alerts and recommendations, and the Governance Agent closes the loop with compliance review and follow-up.
+
+Every agent decision is logged to Dataverse, giving supply chain leaders complete traceability across the pipeline. Built on Copilot Studio, Power Automate, Dataverse, Power Apps, and Azure OpenAI, SupplyWatch delivers early detection, clear explanations, actionable recommendations, and automated governance in one intelligent system.
+
+We are orchestrating risk detection that's modern, safe, and reliable.
 
 ---
 
