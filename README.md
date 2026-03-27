@@ -40,18 +40,18 @@ Email is used for enterprise‑safe delivery due to tenant restrictions on Teams
 ---
 
 ## 🎥 **Demo Video**
-_Link to demo video goes here_
 
+[Watch the SupplyWatch Demo on YouTube](https://youtu.be/UGtcylRmUVg)
 ---
 
 ## 📑 **PowerPoint Presentation**
-_Link to presentation deck goes here_
+[SupplyWatch_Final_Presentation.pptx](https://github.com/user-attachments/files/26296265/SupplyWatch_Final_Presentation.pptx)
 
 ---
 
 ## 📊 **Architecture Diagram**
 
-<img width="1376" height="768" alt="SupplyWatch High Level Architecture2" src="https://github.com/user-attachments/assets/054af3c8-8147-496a-87c0-189f12b1d371" />
+<img width="1376" height="768" alt="SupplyWatch High Level Architecture2" src="https://github.com/user-attachments/assets/f6cf30e8-5c2b-4dfc-8fca-2b2291ad93cb" />
 
 ---
 
