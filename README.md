@@ -156,10 +156,6 @@ Dataverse acts as the **state machine**, and Power Automate orchestrates the ent
 
 ---
 
-## **Repository Structure**
-
----
-
 ## **Future Enhancements**
 - Integrate external supplier data sources (ERP, quality systems, shipment tracking)  
 - Add a Power BI dashboard for real‑time supplier risk visibility  
